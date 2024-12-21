@@ -3,11 +3,6 @@ const arrow = document.getElementById('arrowdown')
 // So Glitch will bring up editor errors because it thinks these are not defined...
 // ...this is a nice loophole. ¯\_(ツ)_/¯
 
-var LocomotiveScroll = LocomotiveScroll
-var gsap = gsap
-var ScrollTrigger = ScrollTrigger
-var TextPlugin = TextPlugin
-var ScrollToPlugin = ScrollToPlugin
 
 // Register GSAP plugins.
 
